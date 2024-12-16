@@ -17,9 +17,10 @@
 }
 
 .item img {
-  height: 100px;
-  width: 60px;
+  height: 150px;
+  width: 90px;
   object-fit: cover;
+  cursor: pointer;
 }
 
 .list {
